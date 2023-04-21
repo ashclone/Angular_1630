@@ -1,0 +1,163 @@
+<div class="container">
+  <div class="row top-space">
+    <div class="col-xs-12 end-xs ">
+      <a routerLink="/students" color="primary" mat-raised-button><mat-icon>chevron_left</mat-icon>Go Back</a>
+    </div>
+  </div>
+  <div class="row text-primary">
+    <h2>{{Title}}</h2>
+  </div>
+
+  <div class="row ">
+    <div class="col-xs-6">
+      <form #studentForm="ngForm" role="form">
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>Name</mat-label>
+              <input type="text" matInput [(ngModel)]="studentData.name" name="name" #name="ngModel"
+                [ngClass]="{ 'is-invalid': studentForm.submitted && name.invalid }" required>
+
+            </mat-form-field>
+            <!-- Error -->
+            <div class="text-danger mt-1" *ngIf="studentForm.submitted && name.invalid">
+              <span *ngIf="name.errors" class="text-danger">Name Field is required.</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-6">
+            <mat-form-field appearance="outline">
+              <mat-label>Email</mat-label>
+              <input type="text" matInput [(ngModel)]="studentData.email" name="email" required>
+            </mat-form-field>
+          </div>
+          <div class="col-xs-6">
+            <mat-form-field appearance="outline">
+              <mat-label>Contact</mat-label>
+              <input type="text" matInput [(ngModel)]="studentData.contact" name="contact" #contact="ngModel"
+                appContactValidation [class.is-invalid]="(contact.touched || contact.dirty) && contact.errors">
+            </mat-form-field>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>BirthDate</mat-label>
+              <input matInput [matDatepicker]="picker" min="" max="" [(ngModel)]="studentData.birthDate"
+                name="birthdate">
+              <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+              <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>PhysicalAddress</mat-label>
+              <textarea type="text" matInput [(ngModel)]="studentData.address.physicalAddress"
+                name="physicalAddress"></textarea>
+            </mat-form-field>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>Postal Code</mat-label>
+              <input type="text" matInput [(ngModel)]="studentData.address.postalCode" name="postalCode">
+            </mat-form-field>
+          </div>
+        </div>
+        <!-- Gender row -->
+
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>Gender</mat-label>
+              <mat-select [(ngModel)]="studentData.genderId" name="gender">
+                <mat-option *ngFor="let item of GenderList" [value]="item.id">
+                  {{item.title}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+          </div>
+        </div>
+        <!-- Country dropdown -->
+
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>Country</mat-label>
+              <mat-select name="country" [(ngModel)]="studentData.address.city.state.country.id"
+                (ngModelChange)="onCountrySelected($event)">
+                <mat-option *ngFor="let country of CountryList" [value]="country.id">
+                  {{country.name}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+          </div>
+        </div>
+        <!-- State dropdown -->
+
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>State</mat-label>
+              <mat-select name="state" [(ngModel)]="studentData.address.city.state.id"
+                (ngModelChange)="onStateSelected($event)">
+                <mat-option *ngFor="let state of StateList" [value]="state.id">
+                  {{state.name}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+          </div>
+        </div>
+        <!-- City dropdown -->
+        <div class="row">
+          <div class="col-xs-12">
+            <mat-form-field appearance="outline">
+              <mat-label>City</mat-label>
+              <mat-select name="city" [(ngModel)]="studentData.address.cityId">
+                <mat-option *ngFor="let city of CityList" [value]="city.id">
+                  {{city.name}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12" *ngIf="isNew==false">
+            <button mat-raised-button color="primary" type="submit" (click)="UpdateClick()">Update</button>
+          </div>
+
+          <div class="col-xs-12" *ngIf="isNew==true">
+            <button mat-raised-button color="primary" type="submit" (click)="SaveClick()">Save</button>
+          </div>
+
+        </div>
+        <div>
+          <input type="text" hidden matInput [(ngModel)]="studentData.profileImage" name="profileImage">
+        </div>
+
+
+      </form>
+    </div>
+    <div class="col-xs-6 row center-xs">
+      <div class=" col-xs-6 image-container ">
+        <img [src]="ProfileDb" alt="NO Load Profile">
+      </div>
+      <div class="col-xs-12 center-xs">
+        <input hidden type="file" #profileUploaded (change)="ImageUpload($event)">
+        <button mat-raised-button color="primary" (click)="profileUploaded.click()">
+          Upload Image
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

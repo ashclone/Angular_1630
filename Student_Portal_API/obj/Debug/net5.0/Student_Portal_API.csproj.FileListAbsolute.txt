@@ -1,0 +1,118 @@
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\appsettings.Development.json
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\appsettings.json
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.exe
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.deps.json
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.runtimeconfig.json
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.runtimeconfig.dev.json
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\ref\Student_Portal_API.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.pdb
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Humanizer.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\Asp.net core Web Api\Student_Portal_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.csproj.AssemblyReference.cache
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.AssemblyInfoInputs.cache
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.AssemblyInfo.cs
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.csproj.CoreCompileInputs.cache
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.MvcApplicationPartsAssemblyInfo.cs
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.MvcApplicationPartsAssemblyInfo.cache
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\staticwebassets\Student_Portal_API.StaticWebAssets.Manifest.cache
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\staticwebassets\Student_Portal_API.StaticWebAssets.xml
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\scopedcss\bundle\Student_Portal_API.styles.css
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.RazorTargetAssemblyInfo.cache
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.csproj.CopyComplete
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.dll
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\ref\Student_Portal_API.dll
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.pdb
+Q:\Asp.net core Web Api\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.genruntimeconfig.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\appsettings.Development.json
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\appsettings.json
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.exe
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.deps.json
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.runtimeconfig.json
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.runtimeconfig.dev.json
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\ref\Student_Portal_API.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Student_Portal_API.pdb
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Humanizer.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.csproj.AssemblyReference.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.AssemblyInfoInputs.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.AssemblyInfo.cs
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.csproj.CoreCompileInputs.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.MvcApplicationPartsAssemblyInfo.cs
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.MvcApplicationPartsAssemblyInfo.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\staticwebassets\Student_Portal_API.StaticWebAssets.Manifest.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\staticwebassets\Student_Portal_API.StaticWebAssets.xml
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\scopedcss\bundle\Student_Portal_API.styles.css
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.RazorTargetAssemblyInfo.cache
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.csproj.CopyComplete
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\ref\Student_Portal_API.dll
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.pdb
+Q:\Anguler\Angular_1630\Student_Portal_API\obj\Debug\net5.0\Student_Portal_API.genruntimeconfig.cache
