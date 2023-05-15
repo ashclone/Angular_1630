@@ -53,6 +53,7 @@ export class ViewemployeeComponent implements OnInit {
     bio: '',
     hob: [],
   };
+  //not use yet employeeFormBuilder
   employeeform = this.employeeFormBuilder.group({
     id: 0,
     name: '',
