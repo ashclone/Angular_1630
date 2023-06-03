@@ -1,7 +1,7 @@
-import { City } from './../infrastructure/city.interface';
-import { State } from './../infrastructure/state.interface';
+import { City } from '../infrastructure/city.interface';
+import { State } from '../infrastructure/state.interface';
 import { student } from 'src/app/infrastructure/student.interface';
-import { gender } from './../infrastructure/gender.interface';
+import { gender } from '../infrastructure/gender.interface';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
@@ -68,7 +68,7 @@ export class StudentService {
       contact: stu.contact,
       genderId: stu.genderId,
       cityId: stu.address.cityId,
-      profileImage:stu.profileImage,
+      profileImage: stu.profileImage,
       physicalAddress: stu.address.physicalAddress,
       postalCode: stu.address.postalCode,
     };
@@ -90,7 +90,7 @@ export class StudentService {
       contact: stu.contact,
       genderId: stu.genderId,
       cityId: stu.address.cityId,
-      profileImage:stu.profileImage,
+      profileImage: stu.profileImage,
       physicalAddress: stu.address.physicalAddress,
       postalCode: stu.address.postalCode,
     };
